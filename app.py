@@ -1,3 +1,4 @@
+pip3 install tensorflow
 import streamlit as st
 import numpy as np
 from keras.models import load_model
